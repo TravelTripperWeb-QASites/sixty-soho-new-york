@@ -1,4 +1,5 @@
 {
-  "name": "Laundry & Dryclean services",
-  "order": 5
+  "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRaAAAAHKqFobomkGb8Ksq4opvCtLK6yt5jOp_dICNEazAqeiOuuTwc4UDuhAZ2vNZJ1gTM1RueyDt6MAOVlnBAB1wkBFzPoKoIXKpltDUlFY99fchX_XuguwZfPyLSmp2WKnTMEhCDpD6Bmlh9xjcmzt1J7-iGGhQSRa8kHiSb8_kRqnup0XsDXIFIaw&sensor=false&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY",
+  "order": 5,
+  "hidden": false
 }
